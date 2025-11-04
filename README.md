@@ -262,8 +262,8 @@ This project is licensed under the MIT License - see `LICENSE` file for details.
 ## 👤 Author
 
 **Subodh Kumar Sahu**
-- GitHub: [@subodh-ks](https://github.com/subodh-ks)
-- LinkedIn: [Subodh Kumar Sahu](https://linkedin.com/in/subodh-kumar-sahu)
+- GitHub: [SubodhKumarSahu2826](https://github.com/SubodhKumarSahu2826)
+- LinkedIn: [Subodh Kumar Sahu](https://www.linkedin.com/in/subodhkumarsahu98/)
 
 ## 🙏 Acknowledgments
 
@@ -290,6 +290,6 @@ For support, issues, or questions:
 
 ---
 
-**Last Updated**: November 2025  
+**Last Updated**: August 2025  
 **Status**: Active Development  
-**Version**: 1.0.0
+**Version**: 2.0.0
